@@ -88,3 +88,5 @@ BalancedRandomForestClassifier Model, two trees of the same size and equal size 
 ![ensemble_score](https://github.com/femiimam001/Credit_Risk_Analysis/blob/main/Resources/ensemble_score.PNG)
 
 The balanced accuracy score increased to 78.9% for this model.
+
+![ensemble_precision]()
