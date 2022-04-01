@@ -34,3 +34,7 @@ RandomOverSampler Model randomly selects from the minority class and adds it to 
 Balanced accuracy score: 64%.
 
 ![balanced_acc_score](https://github.com/femiimam001/Credit_Risk_Analysis/blob/main/Resources/balanced_acc_score.PNG)
+
+The "High Risk" precision rate was only 1% with the recall at 66% giving this model an F1 score of 2%.
+"Low Risk" had a precision rate of 100% and recall at 62%.
+![con_classification]()
