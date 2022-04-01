@@ -50,7 +50,8 @@ Like RandomOverSampler, the "High Risk" precision rate again was only 1% with th
 ## Undersampling
 
 ClusterCentroids Model, an algorithm that identifies clusters of the majority class to generate synthetic data points that are representative of the clusters. The model classified 246 records each as High Risk and Low Risk.
-![clus_cenroid_model]()
+![clus_cenroid_model](https://github.com/femiimam001/Credit_Risk_Analysis/blob/main/Resources/clus_centroid_model.PNG)
+
 Balanced accuracy score was lower than the oversampling models at 54.5%.
 
 The "High Risk" precision rate again was only at 1% with the recall at 69% giving this model an F1 score of 1%.
