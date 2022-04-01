@@ -76,3 +76,13 @@ The "High Risk" precision rate did not improve was only 1%, however the recall i
 "Low Risk" still showed a precision rate of 100% with the recall at 57%.
 
 ![SMOTEENN_precision](https://github.com/femiimam001/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN_precision.PNG)
+
+# Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
+
+Compare two new Machine Learning models that reduce bias to predict credit risk. The models classified 51,366 as High Risk and 246 as Low Risk.
+
+![ensemble_model]()
+
+BalancedRandomForestClassifier Model, two trees of the same size and equal size to the minority class are constructed to represent one for the majority class and one for the minority class.
+
+The balanced accuracy score increased to 78.9% for this model.
