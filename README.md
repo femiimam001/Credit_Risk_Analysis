@@ -10,7 +10,7 @@ I will be using the credit card credit dataset from LendingClub. I shall oversam
 ## Resources and Tools Used
 
 Data Source:LendingClub dataset on credit card risk from LoanStats_2019Q1.csv.
-Tools: Matplotlib,Visual studio code,Github,python libries such as sklearn,nunpy,pandas,pathlib,collections and immblearn.
+Tools: Matplotlib,Visual studio code,Github,python libries such as sklearn,nunpy,pandas,pathlib,collections and imblearn.
 
 # Results
 
