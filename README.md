@@ -85,6 +85,6 @@ Compare two new Machine Learning models that reduce bias to predict credit risk.
 
 BalancedRandomForestClassifier Model, two trees of the same size and equal size to the minority class are constructed to represent one for the majority class and one for the minority class.
 
-![ensemble_score]()
+![ensemble_score](https://github.com/femiimam001/Credit_Risk_Analysis/blob/main/Resources/ensemble_score.PNG)
 
 The balanced accuracy score increased to 78.9% for this model.
