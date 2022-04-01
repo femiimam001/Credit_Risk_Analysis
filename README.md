@@ -111,12 +111,3 @@ The "High Risk precision rate increased to 9% with the recall at 92% giving this
 # Summary
 
 In reviewing all six models, the EasyEnsembleClassifer model yielded the best results with an accuracy rate of 93.2% and a 9% precision rate when predicting "High Risk candidates. The sensitivity rate (aka recall) was also the highest at 92% compared to the other models. The result for predicting "Low Risk" was also the highest with the sensitivity rate at 94% and an F1 score of 97%. Therefore, if a model needed to be recommended to perform this type of analysis, then this one would be the clear choice.
-
-## Ranking of models in descending order based on "High Risk" results:
-
-1. EasyEnsembleClassifer: 93.2% accuracy, 9% precision, 92% recall, and 16% F1 Score
-2. BalancedRandomForestClassifer: 78.9% accuracy, 3% precision, 70% recall and 6% F1 Score
-3. SMOTE: 65.2% accuracy, 1% precision, 61% recall and 2% F1 Score
-4. SMOTEENN: 64.5% accuracy, 1% precision, 72% recall and 2% F1 Score
-5. RandomOverSampler: 64.0% accuracy, 1% precision, 66% recall and 2% F1 Score
-   6.ClusterCentroids: 54.5% accuracy, 1% precision, 69% recall and 1% F1 Score
