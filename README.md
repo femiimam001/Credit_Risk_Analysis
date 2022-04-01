@@ -37,4 +37,8 @@ Balanced accuracy score: 64%.
 
 The "High Risk" precision rate was only 1% with the recall at 66% giving this model an F1 score of 2%.
 "Low Risk" had a precision rate of 100% and recall at 62%.
-![con_classification](https://github.com/femiimam001/Credit_Risk_Analysis/blob/main/Resources/con_classification.PNG)
+
+SMOTE (Synthetic Minority Oversampling Technique) Model, like RandomOverSampler increases the size of the minority class by creating new values based on the value of the closest neighbors to the minority class instead of random selection.
+
+The balanced accuracy score improved slightly to 65.1%.
+![SMOTE]()
