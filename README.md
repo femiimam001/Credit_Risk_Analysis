@@ -45,3 +45,4 @@ The balanced accuracy score improved slightly to 65.1%.
 
 Like RandomOverSampler, the "High Risk" precision rate again was only 1% with the recall degraded to 61% giving this model an F1 score of 2%.
 "Low Risk" had a precision rate of 100% and an improved recall at 69%.
+![SMOTE_precision]()
