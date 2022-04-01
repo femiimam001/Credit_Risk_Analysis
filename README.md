@@ -29,4 +29,4 @@ Using the 75/25% method to split the data for training vs. testing, 51,366 "low 
 
 RandomOverSampler Model randomly selects from the minority class and adds it to the training set until both classifications are equal. The results classified 51,366 records each as High Risk and Low Risk.
 
-![random_sample]()
+![random_sample](https://github.com/femiimam001/Credit_Risk_Analysis/blob/main/Resources/random_sample.PNG)
