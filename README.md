@@ -81,7 +81,7 @@ The "High Risk" precision rate did not improve was only 1%, however the recall i
 
 Compare two new Machine Learning models that reduce bias to predict credit risk. The models classified 51,366 as High Risk and 246 as Low Risk.
 
-![ensemble_model]()
+![ensemble_model](https://github.com/femiimam001/Credit_Risk_Analysis/blob/main/Resources/ensemble_model.PNG)
 
 BalancedRandomForestClassifier Model, two trees of the same size and equal size to the minority class are constructed to represent one for the majority class and one for the minority class.
 
