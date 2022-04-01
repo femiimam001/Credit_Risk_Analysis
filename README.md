@@ -102,3 +102,8 @@ EasyEnsembleClassifier Model, a set of classifiers where individual decisions ar
 The balanced accuracy score increased to 93.2% with this model.
 
 ![ensemble_classifier](https://github.com/femiimam001/Credit_Risk_Analysis/blob/main/Resources/ensemble_classifier.PNG)
+
+The "High Risk precision rate increased to 9% with the recall at 92% giving this model an F1 score of 16%.
+"Low Risk" still had a precision rate of 100% with the recall now at 94%.
+
+![ensemble_class_precision]()
