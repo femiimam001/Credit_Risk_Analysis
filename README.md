@@ -22,3 +22,11 @@ The original dataset contained 115,675 loan applications in Q1 of 2019. We used 
 
 Using the 75/25% method to split the data for training vs. testing, 51,366 "low risk" and 246 "high risk" applications were categorized into the training set.
 ![training_testing](https://github.com/femiimam001/Credit_Risk_Analysis/blob/main/Resources/training_testing.PNG)
+
+# Deliverable 1: Use Resampling Models to Predict Credit Risk
+
+## Oversampling
+
+RandomOverSampler Model randomly selects from the minority class and adds it to the training set until both classifications are equal. The results classified 51,366 records each as High Risk and Low Risk.
+
+![random_sample]()
