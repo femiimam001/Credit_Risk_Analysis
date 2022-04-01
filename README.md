@@ -65,7 +65,7 @@ The "High Risk" precision rate again was only at 1% with the recall at 69% givin
 ## Combination Sampling
 
 SMOTEENN (Synthetic Minority Oversampling Technique + Edited NearestNeighbors) Model combines aspects of both oversampling and undersampling. The model classified 68,460 records as High Risk and 62,011 as Low Risk.
-![SMOTEENN_model]()
+![SMOTEENN_model](https://github.com/femiimam001/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN_model.PNG)
 
 The balanced accuracy score improved to 64.5% when using a combined sampling model.
 
