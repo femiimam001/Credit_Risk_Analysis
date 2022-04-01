@@ -59,3 +59,15 @@ The "High Risk" precision rate again was only at 1% with the recall at 69% givin
 "Low Risk" had a precision rate of 100% and with a lower recall at 40% compared to the oversampling models.
 
 ![clus_centroid_precision](https://github.com/femiimam001/Credit_Risk_Analysis/blob/main/Resources/clus_cenroid_precision.PNG)
+
+# Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk
+
+## Combination Sampling
+
+SMOTEENN (Synthetic Minority Oversampling Technique + Edited NearestNeighbors) Model combines aspects of both oversampling and undersampling. The model classified 68,460 records as High Risk and 62,011 as Low Risk.
+![SMOTEENN_model]()
+
+The balanced accuracy score improved to 64.5% when using a combined sampling model.
+
+The "High Risk" precision rate did not improve was only 1%, however the recall increased to 72% giving this model an F1 score of 2%.
+"Low Risk" still showed a precision rate of 100% with the recall at 57%.
