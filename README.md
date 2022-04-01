@@ -21,4 +21,4 @@ The original dataset contained 115,675 loan applications in Q1 of 2019. We used 
 ![loan_status](https://github.com/femiimam001/Credit_Risk_Analysis/blob/main/Resources/loan_status.PNG)
 
 Using the 75/25% method to split the data for training vs. testing, 51,366 "low risk" and 246 "high risk" applications were categorized into the training set.
-![training_testing]()
+![training_testing](https://github.com/femiimam001/Credit_Risk_Analysis/blob/main/Resources/training_testing.PNG)
