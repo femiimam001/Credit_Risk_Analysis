@@ -46,3 +46,15 @@ The balanced accuracy score improved slightly to 65.1%.
 Like RandomOverSampler, the "High Risk" precision rate again was only 1% with the recall degraded to 61% giving this model an F1 score of 2%.
 "Low Risk" had a precision rate of 100% and an improved recall at 69%.
 ![SMOTE_precision](https://github.com/femiimam001/Credit_Risk_Analysis/blob/main/Resources/SMOTE_precision.PNG)
+
+## Undersampling
+
+ClusterCentroids Model, an algorithm that identifies clusters of the majority class to generate synthetic data points that are representative of the clusters. The model classified 246 records each as High Risk and Low Risk.
+![clus_cenroid_model]()
+Balanced accuracy score was lower than the oversampling models at 54.5%.
+
+![clus_centroid_score]()
+
+The "High Risk" precision rate again was only at 1% with the recall at 69% giving this model an F1 score of 1%.
+"Low Risk" had a precision rate of 100% and with a lower recall at 40% compared to the oversampling models.
+![clus_centroid_precision]()
