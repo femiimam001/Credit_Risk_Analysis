@@ -33,4 +33,4 @@ RandomOverSampler Model randomly selects from the minority class and adds it to 
 
 Balanced accuracy score: 64%.
 
-![balanced_acc_score]()
+![balanced_acc_score](https://github.com/femiimam001/Credit_Risk_Analysis/blob/main/Resources/balanced_acc_score.PNG)
