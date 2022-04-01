@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-The purpose of this project is to use supervised machine learning in predicting credit risk. Lending Club management believes that using statistical reasoning and machine learning algorithm will provide a quicker and more reliable loan experience. It also believe that machine leraning will lead to more accurate identification of good candidates for loans. This project will explore several machine learning models or algorithms to predict credit risk.
+The purpose of this project is to use supervised machine learning in predicting credit risk. Lending Club management believes that using statistical reasoning and machine learning algorithm will provide a quicker and more reliable loan experience. It also believe that machine learning will lead to more accurate identification of good candidates for loans. This project will explore several machine learning models or algorithms to predict credit risk.
 This project will also employ different techniques to train and evaluate models with unbalaced classes.The data science analytics team lead has specifically requested that i make use of imbalanced-learn and scikit-learn libraries to build and evaluate models using resampling.
 
 I will be using the credit card credit dataset from LendingClub. I shall oversample the data using the RandomOverSampler and SMOTE algorithms, and undersample the data using the ClusterCentroids algorithm. Also we will use a combinatorial approach of over- and undersampling using the SMOTEENN algorithm. And finally compare two new machine learning models that reduces bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk.
