@@ -42,3 +42,6 @@ SMOTE (Synthetic Minority Oversampling Technique) Model, like RandomOverSampler 
 
 The balanced accuracy score improved slightly to 65.1%.
 ![SMOTE](https://github.com/femiimam001/Credit_Risk_Analysis/blob/main/Resources/SMOTE.PNG)
+
+Like RandomOverSampler, the "High Risk" precision rate again was only 1% with the recall degraded to 61% giving this model an F1 score of 2%.
+"Low Risk" had a precision rate of 100% and an improved recall at 69%.
