@@ -41,4 +41,4 @@ The "High Risk" precision rate was only 1% with the recall at 66% giving this mo
 SMOTE (Synthetic Minority Oversampling Technique) Model, like RandomOverSampler increases the size of the minority class by creating new values based on the value of the closest neighbors to the minority class instead of random selection.
 
 The balanced accuracy score improved slightly to 65.1%.
-![SMOTE]()
+![SMOTE](https://github.com/femiimam001/Credit_Risk_Analysis/blob/main/Resources/SMOTE.PNG)
