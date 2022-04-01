@@ -89,4 +89,8 @@ BalancedRandomForestClassifier Model, two trees of the same size and equal size 
 
 The balanced accuracy score increased to 78.9% for this model.
 
-![ensemble_precision](https://github.com/femiimam001/Credit_Risk_Analysis/blob/main/Resources/ensemble_precision.PNG)
+!The "High Risk precision rate increased to 3% with the recall at 70% giving this model an F1 score of 6%.
+"Low Risk" still had a precision rate of 100% with the recall at 87%.
+The top feature by importance was "total_rec_prncp" at 7.9% of the total.
+
+[ensemble_precision](https://github.com/femiimam001/Credit_Risk_Analysis/blob/main/Resources/ensemble_precision.PNG)
